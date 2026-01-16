@@ -30,7 +30,7 @@
 
 ## 🌱 What I'm Working/Worked With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,java,cpp,css,dart,django,docker,dynamodb,eclipse,express,fastapi,figma,firebase,flask,flutter,git,gradle,grafana,graphql,html,js,dax,kubernetes,linux,maven,mongodb,mysql,nextjs,npm,opencv,postman,postgres,prometheus,py,pycharm,pytorch,react,sass,sqlite,sklearn,terraform,tailwind,tensorflow,ubuntu,vscode,discord,dotnet,elasticsearch,gcp,gitlab,go,kafka,nestjs,nuxtjs,prisma,rabbitmq,ruby,rust,spring,supabase,threejs,arduino,vercel" />
+  <img src="https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,java,cpp,css,dart,django,docker,dynamodb,eclipse,express,fastapi,figma,firebase,flask,flutter,git,gradle,grafana,graphql,html,js,kubernetes,linux,maven,mongodb,mysql,nextjs,npm,opencv,postman,postgres,prometheus,py,pycharm,pytorch,react,sass,sqlite,sklearn,terraform,tailwind,tensorflow,ubuntu,vscode,discord,dotnet,elasticsearch,gcp,gitlab,go,kafka,nestjs,nuxtjs,prisma,rabbitmq,ruby,rust,spring,supabase,vercel" />
 </p>
 
 
