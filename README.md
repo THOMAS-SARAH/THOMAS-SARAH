@@ -1,57 +1,59 @@
-<!-- ===== CLICKABLE LOGO ===== -->
+<h1 align="center">Hi 👋, I'm Sarah Thomas</h1>
+<h3 align="center"><em>Engineering Student · Cloud & Data Enthusiast</em></h3>
+
+---
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view">
-    <img src="https://share.google/buqMr0im8UynDSDU9" width="140"/>
+  <a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/THOMAS-SARAH/THOMAS-SARAH/main/profile.png" 
+      width="180"
+      alt="Sarah Thomas Profile Image"
+    />
   </a>
 </p>
 
-<h2 align="center">Access my resume ☝️ by clicking my logo</h2>
-
-<!-- ===== RESUME & SOCIAL LINKS ===== -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view">📄 Resume</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/sarah-t-40a301289">🔗 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:sarahtthomas29@gmail.com">📧 Email</a>
+  <em>Click on the logo to access my resume</em>
 </p>
 
 ---
 
-<!-- ===== ABOUT ===== -->
-<h3 align="center">Hi 👋 I'm Sarah Thomas</h3>
+## 👩‍💻 About Me
+
+- 🎓 Engineering student with a strong interest in **Cloud Computing, Data Analysis & Web Development**
+- ☁️ Currently learning **AWS & Cloud Services**
+- 📊 Remote **Data Analyst Intern**
+- 📚 Curious learner who enjoys building and exploring technology
+
+---
+
+## 🛠️ Skills
 
 <p align="center">
-🎓 Computer Science Student <br>
-☁️ Cloud & AWS Enthusiast <br>
-💻 Interested in Data Analysis & Web Development
+  <img src="https://skillicons.dev/icons?i=python,java,aws,html,css,js,react,mysql,mongodb,git,github,linux" />
 </p>
 
 ---
 
-<!-- ===== SKILLS ===== -->
-<h3 align="center">What I've been working with...</h3>
+## 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript&perline=7" />
-</p>
+  <a href="https://www.linkedin.com/in/sarah-t-40a301289" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,git,github,docker&perline=6" />
-</p>
+  <a href="mailto:sarahtthomas29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 
----
-
-<!-- ===== GITHUB STATS ===== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THOMAS-SARAH&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=THOMAS-SARAH&theme=tokyonight" />
+  <a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view">
+    <img src="https://img.shields.io/badge/Resume-View-black?style=for-the-badge&logo=googledrive" />
+  </a>
 </p>
 
 ---
 
-<!-- ===== FOOTER ===== -->
 <p align="center">
-  ✨ Always learning. Always building. ✨
+  <em>“Learning, building, and growing — one step at a time.”</em>
 </p>
