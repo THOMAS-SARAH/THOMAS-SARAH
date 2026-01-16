@@ -1,59 +1,69 @@
-<h1 align="center">Hi, I'm സാറാ തോമസ് aka Sarah Thomas</h1>
-<h3 align="center"><em> Third Year Engineering Student · Cloud & Data Enthusiast</em></h3>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0aa6c1&height=180&section=header&text=Sarah%20Thomas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt=" സാറാ തോമസ് AKA Sarah Thomas banner">
+</p>
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view" target="_blank">
+  <img src="https://raw.githubusercontent.com/THOMAS-SARAH/THOMAS-SARAH/main/profile.png" width="120" />
+</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=0aa6c1&center=true&vCenter=true&width=1000&lines=Click+my+profile+to+view+my+resume+👆)](https://git.io/typing-svg)
+
+### 👩‍💻 Third Year Engineering Student  
+### ☁️ Cloud • 📊 Data • ⚙️ Automation Enthusiast
+
+[My Resume 🇮🇳](https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view)
+
+</div>
 
 ---
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/THOMAS-SARAH/THOMAS-SARAH/main/profile.png" 
-      width="180"
-      alt="Sarah Thomas Profile Image"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <em>Click on the logo to access my resume</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=THOMAS-SARAH&show_icons=true&hide_border=true&title_color=0aa6c1&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=THOMAS-SARAH&hide_border=true&background=0d1117&stroke=0aa6c1&ring=0aa6c1&fire=0aa6c1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0aa6c1&sideLabels=0aa6c1" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 Engineering student with a strong interest in **Cloud Computing, Data Analysis & Automation**
-- ☁️ Currently learning **AWS,Cloud Services, Data Analytics and Automation**
-- 📊 Remotely working as a **Data Analyst Intern** @NULL CLASSES
-- 📚 Curious learner who enjoys building and exploring technology
-
----
-
-## 🛠️ Skills
+## 🌱 What I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c++,python,aws, azure,html,css,js,react,mysql,mongodb,git,github,linux,powerbi,anaconda, docker, kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,aws,azure,html,css,js,react,mysql,mongodb,git,github,linux,powerbi,anaconda,docker,kubernetes" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 What I'm Exploring Next
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarah-t-40a301289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:sarahtthomas29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-
-  <a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view">
-    <img src="https://img.shields.io/badge/Resume-View-black?style=for-the-badge&logo=googledrive" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=terraform,jenkins,airflow,spark,postgres,tableau,fastapi,flask,gcp" />
 </p>
 
 ---
 
-<p align="center">
-  <em>“Learning, building, and growing — one step at a time.”</em>
-</p>
+```js
+const SarahThomas = {
+  about: [
+    '🎓 Third-year engineering student passionate about Cloud and Data.',
+    '☁️ Currently learning AWS, Azure, and cloud-native architectures.',
+    '📊 Data Analyst Intern at NULL CLASSES (remote).',
+    '⚙️ Interested in automation, DevOps, and scalable systems.',
+    '📚 Curious learner who enjoys solving real-world problems.'
+  ],
+  currentFocus: [
+    'AWS Cloud Services',
+    'Data Analytics & Visualization',
+    'Docker & Kubernetes',
+    'SQL & NoSQL Databases',
+    'Python for Automation'
+  ],
+  futureGoals: [
+    'DevOps pipelines & CI/CD',
+    'Big Data tools (Spark, Airflow)',
+    'Cloud security fundamentals',
+    'Production-grade data systems'
+  ]
+};
