@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarah Thomas</h1>
-<h3 align="center"><em>Engineering Student · Cloud & Data Enthusiast</em></h3>
+<h1 align="center">Hi, I'm സാറാ തോമസ് aka Sarah Thomas</h1>
+<h3 align="center"><em> Third Year Engineering Student · Cloud & Data Enthusiast</em></h3>
 
 ---
 
@@ -21,9 +21,9 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Engineering student with a strong interest in **Cloud Computing, Data Analysis & Web Development**
-- ☁️ Currently learning **AWS & Cloud Services**
-- 📊 Remote **Data Analyst Intern**
+- 🎓 Engineering student with a strong interest in **Cloud Computing, Data Analysis & Automation**
+- ☁️ Currently learning **AWS,Cloud Services, Data Analytics and Automation**
+- 📊 Remotely working as a **Data Analyst Intern** @NULL CLASSES
 - 📚 Curious learner who enjoys building and exploring technology
 
 ---
@@ -31,7 +31,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,aws,html,css,js,react,mysql,mongodb,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,c++,python,aws, azure,html,css,js,react,mysql,mongodb,git,github,linux,powerbi,anaconda, docker, kubernetes" />
 </p>
 
 ---
