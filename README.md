@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view" target="_blank">
+<a href="[https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp](https://drive.google.com/file/d/17IO7lYsmaJyJTwUj7PlwCjP7JdJq32Ds/view?usp=drive_link)/view" target="_blank">
   <img src="https://raw.githubusercontent.com/THOMAS-SARAH/THOMAS-SARAH/main/profile.png" width="120" />
 </a>
 
@@ -15,7 +15,7 @@
 ### 👩‍💻 Final Year Engineering Student  
 ### ☁️ Cloud • 📊 Data • ⚙️ Automation Enthusiast
 
-[My Resume 🇮🇳](https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp/view)
+[My Resume 🇮🇳]([https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp](https://drive.google.com/file/d/17IO7lYsmaJyJTwUj7PlwCjP7JdJq32Ds/view?usp=drive_link)/view)
 
 </div>
 
