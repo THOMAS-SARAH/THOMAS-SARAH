@@ -6,8 +6,12 @@
 
 <div align="center">
 
-<a href="[https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp](https://drive.google.com/file/d/17IO7lYsmaJyJTwUj7PlwCjP7JdJq32Ds/view?usp=drive_link)/view" target="_blank">
-  <img src="https://raw.githubusercontent.com/THOMAS-SARAH/THOMAS-SARAH/main/profile.png" width="120" />
+<a href="https://drive.google.com/file/d/17IO7lYsmaJyJTwUj7PlwCjP7JdJq32Ds/view?usp=drive_link" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/THOMAS-SARAH/THOMAS-SARAH/main/profile.png" 
+    alt="Sarah Thomas" 
+    width="120"
+  />
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=0aa6c1&center=true&vCenter=true&width=1000&lines=Click+my+profile+to+view+my+resume+👆)](https://git.io/typing-svg)
