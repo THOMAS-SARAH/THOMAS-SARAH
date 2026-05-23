@@ -19,7 +19,7 @@
 ### 👩‍💻 Final Year Engineering Student  
 ### ☁️ Cloud • 📊 Data • ⚙️ Automation Enthusiast
 
-[My Resume 🇮🇳]([https://drive.google.com/file/d/19JkS8Iqjm_IzUAGVW7Qa8Px7KOY7-1Yp](https://drive.google.com/file/d/17IO7lYsmaJyJTwUj7PlwCjP7JdJq32Ds/view?usp=drive_link)/view)
+[My Resume 🇮🇳](https://drive.google.com/file/d/17IO7lYsmaJyJTwUj7PlwCjP7JdJq32Ds/view?usp=drive_link)
 
 </div>
 
